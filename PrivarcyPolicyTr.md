@@ -4,6 +4,8 @@ Hizmetlerimizi kullandığınızda çeşitli türlerde bilgi toplayabiliriz:
 Kişisel Bilgiler: Adınız, e-posta adresiniz, ödeme bilgileriniz gibi bize doğrudan sağladığınız bilgiler.
 Kullanım Bilgileri: Hizmetlerimizle nasıl etkileşim kurduğunuzla ilgili bilgiler (dinlediğiniz şarkılar, oluşturduğunuz çalma listeleri, IP adresiniz, cihaz türünüz, tarayıcı türünüz).
 Çerezler ve Benzer Teknolojiler: Deneyiminizi geliştirmek ve hizmetlerimizi analiz etmek için çerezler ve benzer izleme teknolojileri kullanırız.
+
+
 2. Bilgilerinizi Nasıl Kullanırız?
 Topladığımız bilgileri aşağıdaki amaçlarla kullanırız:
 
@@ -12,6 +14,8 @@ Deneyiminizi kişiselleştirmek (örneğin, müzik önerileri sunmak).
 Ödemelerinizi işlemek.
 Sizinle iletişim kurmak (güncellemeler, destek ve pazarlama mesajları dahil).
 Hizmetlerimizi analiz etmek ve yasa dışı faaliyetleri önlemek.
+
+
 3. Bilgi Paylaşımı
 Kişisel bilgilerinizi izniniz olmadan üçüncü taraflarla satmayız veya kiralamayız. Bilgilerinizi yalnızca aşağıdaki durumlarda paylaşabiliriz:
 
@@ -19,6 +23,8 @@ Hizmet sağlayıcılarımızla (örneğin, ödeme işlemcileri, analiz sağlayı
 Yasal yükümlülüklere uymak veya yasal taleplere yanıt vermek.
 Haklarımızı, gizliliğimizi, güvenliğimizi veya mülkiyetimizi ve/veya sizin veya başkalarınınkini korumak.
 Bir iş devri, birleşme veya varlık satışı durumunda.
+
+
 4. Veri Güvenliği
 Kişisel bilgilerinizi yetkisiz erişime, kullanıma veya ifşaya karşı korumak için makul idari, teknik ve fiziksel güvenlik önlemleri alırız. Ancak, internet üzerinden hiçbir iletim yöntemi veya elektronik depolama yöntemi %100 güvenli değildir.
 
