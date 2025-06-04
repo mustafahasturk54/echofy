@@ -1,0 +1,47 @@
+[
+  {
+    "question": "What are the available premium subscription plans?",
+    "answer": "We offer various premium plans including Individual, Family, and Student options. Each plan includes ad-free listening, offline downloads, and high-quality audio.",
+    "category": "Account"
+  },
+  {
+    "question": "Does the app support offline listening?",
+    "answer": "Yes, with a premium subscription, you can download songs and playlists to listen offline without an internet connection.",
+    "category": "Services"
+  },
+  {
+    "question": "How can I upgrade to a subscription plan?",
+    "answer": "To upgrade, go to your Account Settings, select 'Subscription Plan', and choose your preferred plan to complete the payment process.",
+    "category": "Account"
+  },
+  {
+    "question": "Can I cancel my subscription any time?",
+    "answer": "Yes, you can cancel your subscription at any time. After cancellation, your access will remain valid until the end of the current billing period.",
+    "category": "Account"
+  },
+  {
+    "question": "How can I discover new songs?",
+    "answer": "Use the 'Discover' tab to explore personalized playlists, trending tracks, and genre-based recommendations curated just for you.",
+    "category": "General"
+  },
+  {
+    "question": "Can I download songs for offline listening?",
+    "answer": "Yes, premium users can download full tracks and playlists to enjoy music even when they're offline.",
+    "category": "Services"
+  },
+  {
+    "question": "Can I use the app on multiple devices?",
+    "answer": "Yes, you can log into your account on multiple devices. However, simultaneous playback may be limited based on your subscription plan.",
+    "category": "Account"
+  },
+  {
+    "question": "How do I get the student discount?",
+    "answer": "To access the student discount, you'll need to verify your student status with a valid ID. Once approved, you'll be eligible for the discounted student plan.",
+    "category": "Account"
+  },
+  {
+    "question": "Are there ads in the app?",
+    "answer": "Yes, advertisements are shown to free plan users. Premium plans offer an ad-free music experience.",
+    "category": "Services"
+  }
+]
