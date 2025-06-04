@@ -1,1 +1,30 @@
-
+[
+  {
+    "question": "Premium abonelik planları nelerdir?",
+    "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "question": "Uygulama çevrimdışı dinlemeyi destekliyor mu?",
+    "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "question": "Nasıl abonelik planına yükseltme yapabilirim?",
+    "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "question": "Aboneliğimi istediğim zaman iptal edebilir miyim?",
+    "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "question": "Yeni şarkıları nasıl keşfedebilirim?",
+    "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "question": "Çevrimdışı dinlemek için şarkı indirebilir miyim?",
+    "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "question": "Uygulamayı birden fazla cihazda kullanabilir miyim?",
+    "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  }
+]
