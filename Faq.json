@@ -2,17 +2,16 @@
   {
     "question": "What are the premium subscription plans?",
     "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "category": "Account" // Kategori bilgisi eklendi
+    "category": "Account" 
   },
   {
     "question": "Does the app support offline listening?",
     "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "category": "Services" // Kategori bilgisi eklendi
+    "category": "Services" 
   },
   {
     "question": "How can I upgrade to a subscription plan?",
     "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     "category": "Account" // Kategori bilgisi eklendi
-  },
-  // ... diğer soru ve cevaplar ve kategorileri
+  }
 ]
