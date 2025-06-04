@@ -2,16 +2,36 @@
   {
     "question": "What are the premium subscription plans?",
     "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "category": "Account" 
+    "category": "Account"
   },
   {
     "question": "Does the app support offline listening?",
     "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "category": "Services" 
+    "category": "Services"
   },
   {
     "question": "How can I upgrade to a subscription plan?",
     "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "category": "Account" 
+    "category": "Account"
+  },
+  {
+    "question": "Can I cancel my subscription any time?",
+    "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "category": "Account"
+  },
+  {
+    "question": "How can I discover new songs?",
+    "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "category": "General"
+  },
+  {
+    "question": "Can I download song for offline listening?",
+    "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "category": "Services"
+  },
+  {
+    "question": "Can I use App on multiple devices?",
+    "answer": "Lorem ipsum ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "category": "Account"
   }
 ]
