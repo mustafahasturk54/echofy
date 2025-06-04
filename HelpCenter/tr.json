@@ -1,0 +1,47 @@
+[
+  {
+    "question": "Premium abonelik planları nelerdir?",
+    "answer": "Bireysel, Aile ve Öğrenci planları dahil olmak üzere farklı ihtiyaçlara uygun çeşitli premium planlar sunuyoruz. Bu planlar reklamsız müzik dinleme, çevrimdışı erişim ve yüksek kaliteli ses özelliklerini içerir.",
+    "category": "Account"
+  },
+  {
+    "question": "Uygulama çevrimdışı dinlemeyi destekliyor mu?",
+    "answer": "Evet, premium bir aboneliğiniz varsa şarkıları indirerek internet bağlantısı olmadan dinleyebilirsiniz.",
+    "category": "Services"
+  },
+  {
+    "question": "Abonelik planına nasıl geçiş yapabilirim?",
+    "answer": "Hesap ayarlarınıza giderek 'Abonelik Planı' seçeneğine tıklayın ve istediğiniz planı seçerek ödeme adımlarını tamamlayın.",
+    "category": "Account"
+  },
+  {
+    "question": "Aboneliğimi istediğim zaman iptal edebilir miyim?",
+    "answer": "Evet, aboneliğinizi dilediğiniz zaman iptal edebilirsiniz. İptal işleminden sonra mevcut faturalandırma döneminizin sonuna kadar hizmeti kullanmaya devam edebilirsiniz.",
+    "category": "Account"
+  },
+  {
+    "question": "Yeni şarkıları nasıl keşfedebilirim?",
+    "answer": "Keşfet sekmesinden size özel önerilen listeleri, trend parçaları ve tür bazlı içerikleri inceleyerek yeni müzikler keşfedebilirsiniz.",
+    "category": "General"
+  },
+  {
+    "question": "Şarkıları çevrimdışı dinlemek için indirebilir miyim?",
+    "answer": "Evet, premium aboneler tüm içerikleri cihazlarına indirerek çevrimdışı olarak dinleyebilir.",
+    "category": "Services"
+  },
+  {
+    "question": "Uygulamayı birden fazla cihazda kullanabilir miyim?",
+    "answer": "Evet, hesabınızı aynı anda birden fazla cihazda kullanabilirsiniz. Ancak bazı planlarda eşzamanlı dinleme sınırlı olabilir.",
+    "category": "Account"
+  },
+  {
+    "question": "Öğrenci indirimi nasıl alınır?",
+    "answer": "Öğrenci indiriminden yararlanmak için geçerli bir öğrenci belgesi sunmanız gerekir. Onaylandıktan sonra öğrencilere özel indirimli plana geçiş yapabilirsiniz.",
+    "category": "Account"
+  },
+  {
+    "question": "Uygulamada reklamlar var mı?",
+    "answer": "Ücretsiz plan kullanıcıları için reklam gösterimleri mevcuttur. Premium planlar reklamsız müzik dinleme imkânı sunar.",
+    "category": "Services"
+  }
+]
