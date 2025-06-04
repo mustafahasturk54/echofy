@@ -1,30 +1,18 @@
 [
   {
-    "question": "Premium abonelik planları nelerdir?",
-    "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    "question": "What are the premium subscription plans?",
+    "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "category": "Account" // Kategori bilgisi eklendi
   },
   {
-    "question": "Uygulama çevrimdışı dinlemeyi destekliyor mu?",
-    "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    "question": "Does the app support offline listening?",
+    "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "category": "Services" // Kategori bilgisi eklendi
   },
   {
-    "question": "Nasıl abonelik planına yükseltme yapabilirim?",
-    "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    "question": "How can I upgrade to a subscription plan?",
+    "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "category": "Account" // Kategori bilgisi eklendi
   },
-  {
-    "question": "Aboneliğimi istediğim zaman iptal edebilir miyim?",
-    "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-  },
-  {
-    "question": "Yeni şarkıları nasıl keşfedebilirim?",
-    "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-  },
-  {
-    "question": "Çevrimdışı dinlemek için şarkı indirebilir miyim?",
-    "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-  },
-  {
-    "question": "Uygulamayı birden fazla cihazda kullanabilir miyim?",
-    "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-  }
+  // ... diğer soru ve cevaplar ve kategorileri
 ]
